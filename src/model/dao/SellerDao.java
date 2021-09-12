@@ -12,3 +12,4 @@ public interface SellerDao {
 	List<Seller> findAll();
 
 }
+  
